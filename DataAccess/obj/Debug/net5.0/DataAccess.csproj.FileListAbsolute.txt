@@ -1,0 +1,45 @@
+C:\Users\Mihai Ungureanu\source\repos\FileCripto\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Mihai Ungureanu\source\repos\FileCripto\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mihai Ungureanu\source\repos\FileCripto\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Mihai Ungureanu\source\repos\FileCripto\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\Mihai Ungureanu\source\repos\FileCripto\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Mihai Ungureanu\source\repos\FileCripto\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\Mihai Ungureanu\source\repos\FileCripto\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+C:\Users\Mihai Ungureanu\source\repos\FileCripto\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+C:\Users\Mihai Ungureanu\source\repos\FileCripto\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\Mihai Ungureanu\source\repos\FileCripto\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\Mihai Ungureanu\source\repos\FileCripto\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\Mihai Ungureanu\source\repos\FileCripto\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+C:\Users\Mihai Ungureanu\source\repos\FileCripto\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\Mihai Ungureanu\source\repos\FileCripto\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache
+C:\Users\Mihai Ungureanu\source\repos\FileCripto\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\Alexandru Coman\Downloads\FileCripto\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\Alexandru Coman\Downloads\FileCripto\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+C:\Users\Alexandru Coman\Downloads\FileCripto\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+C:\Users\Alexandru Coman\Downloads\FileCripto\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\Alexandru Coman\Downloads\FileCripto\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\Alexandru Coman\Downloads\FileCripto\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\Alexandru Coman\Downloads\FileCripto\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Alexandru Coman\Downloads\FileCripto\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandru Coman\Downloads\FileCripto\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Alexandru Coman\Downloads\FileCripto\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\Alexandru Coman\Downloads\FileCripto\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Alexandru Coman\Downloads\FileCripto\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\Alexandru Coman\Downloads\FileCripto\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\Alexandru Coman\Downloads\FileCripto\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\Alexandru Coman\Downloads\FileCripto\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache
+C:\Users\User\Desktop\IP\FileCripto\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\User\Desktop\IP\FileCripto\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+C:\Users\User\Desktop\IP\FileCripto\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+C:\Users\User\Desktop\IP\FileCripto\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\User\Desktop\IP\FileCripto\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\User\Desktop\IP\FileCripto\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\IP\FileCripto\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\IP\FileCripto\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\IP\FileCripto\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\User\Desktop\IP\FileCripto\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\IP\FileCripto\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\User\Desktop\IP\FileCripto\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+C:\Users\User\Desktop\IP\FileCripto\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\User\Desktop\IP\FileCripto\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache
+C:\Users\User\Desktop\IP\FileCripto\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
